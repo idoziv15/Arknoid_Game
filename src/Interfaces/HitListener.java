@@ -1,11 +1,3 @@
-// 318420254 Ido Ziv
-/**
- * @author Ido Ziv
- * @version ass6
- * @since 02.06.22
- */
-
-
 package Interfaces;
 
 import SpritesAndCollidables.Ball;
